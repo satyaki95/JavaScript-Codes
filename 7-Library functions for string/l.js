@@ -9,8 +9,10 @@ var text2 =prompt("Enter yoyr name : ");
 
 document.write(text2 + text2.length);
 
-document.write(<br/>);
+document.write("<br/>");
 
 var text3="Hallow";
-document.write(text3.charAt(3));
-// left theke 3 no word ta print korbe
+
+// left theke 4 no word ta print korbe
+
+document.write(text3.charAt(4));

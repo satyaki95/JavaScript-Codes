@@ -16,11 +16,14 @@ console.log(num1>=num2);
 
 console.log(20==20);
 
+//== data type check korbe na 
+
 console.log(20=="20");
 
+//sudhu value check korbe and === data type o check korbe
 
-console.log(20==="20"); //== data type check korbe na 
-//sudhu value check korbe and === data type check korbe
+console.log(20==="20"); 
+
 
 console.log(20>25&& 20>19);
 

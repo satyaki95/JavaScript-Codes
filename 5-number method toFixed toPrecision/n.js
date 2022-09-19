@@ -19,23 +19,23 @@ console.log(typeof(num2));
 
 var num3 = 2.639;
 
-console.log(num3.toFixed(2));
-
 //. er por 2 ghor
 
-console.log(num3.toPrecision(2));
+console.log(num3.toFixed(2));
 
 // left theke 2 ghor
 
+console.log(num3.toPrecision(2));
+
+//Number method convert string to number
 
 console.log(Number("12"));
 
 
-//Number method convert string to number
-
 console.log(typeof(Number("12")));
+
+// false = 0  ; true = 1
 
 console.log(Number(false));
 console.log(Number(true));
 
-// false = 0  ; true = 1
