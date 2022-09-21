@@ -9,7 +9,7 @@ for(var i=0;i<5;i++){
 }
 console.log(sum);
 
-var nam2=new Array(parseInt(prompt()));
+var nam2=new Array();
 
 for(var i=0;i<5;i++){
     nam2[i]=parseInt( prompt());
